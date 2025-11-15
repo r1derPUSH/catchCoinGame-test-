@@ -5,6 +5,13 @@ This repository follows a clean and strict Git workflow (main → dev → featur
 
 ---
 
+## 📥 Clone the Project
+
+    git clone https://github.com/r1derPUSH/neogen-project.git
+    cd neogen-project
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Install Dependencies
