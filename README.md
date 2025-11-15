@@ -22,16 +22,6 @@ This repository follows a clean and strict Git workflow (main → dev → featur
 
     npm run dev
 
-### 3. Build for Production
-
-    npm run build
-
-### 4. Preview Production Build
-
-    npm run preview
-
----
-
 ## 🧰 Tech Stack
 
 - React 18
